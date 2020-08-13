@@ -127,4 +127,4 @@ EMAIL_HOST_USER = 'netsetos@gmail.com'
 EMAIL_HOST_PASSWORD = 'django1234'
 EMAIL_USE_TLS = True
 # EMAIL_USE_SSL
-# send_mail('Django mail','This e-mail was sent with Django','netsetos@gmail.com',['netsetos@gmail.com'],fail_silently=False)
+
